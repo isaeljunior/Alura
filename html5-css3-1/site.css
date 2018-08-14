@@ -1,0 +1,19 @@
+body{
+     font-size: 120%;
+     font-family: "crimson text";
+     background-color: #F2FFFC;
+}
+h1{
+   font-family: "open sans condensed";
+   background-color: #851944;
+   color: rgb(255, 255, 255);
+   text-align: center;
+  }
+h2{
+   font-family: "open sans condensed";
+   background-color: #F2FFFC;
+   text-align: left;
+  }
+p{
+  text-align: justify;
+ }

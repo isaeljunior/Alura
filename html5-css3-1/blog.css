@@ -1,0 +1,15 @@
+h1{
+font-size: 60px;
+font-family: "arial";
+background-color: rgb(160, 50, 70);
+color: rgb(250, 200, 190);
+text-align: center;
+}
+h2{
+font-size: 40px;
+font-family: "times new roman";
+}
+p{
+font-size: 20px;
+font-family: "calibri";
+}
